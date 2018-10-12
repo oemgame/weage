@@ -1,0 +1,4 @@
+[gerrit]
+host=github.com
+port=29418
+project=weage.git
